@@ -18,12 +18,12 @@ const config = {
   url: 'https://ardhiee.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/java-docu',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'ardhiee', // Usually your GitHub org/user name.
-  projectName: 'java-docu', // Usually your repo name.
+  projectName: 'java-docu.github.io', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',

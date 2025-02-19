@@ -23,7 +23,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'ardhiee', // Usually your GitHub org/user name.
-  projectName: 'my java docs', // Usually your repo name.
+  projectName: 'java-docu', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
